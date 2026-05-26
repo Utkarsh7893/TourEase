@@ -4,7 +4,7 @@ import {
   Heart,
   Instagram,
   Linkedin,
-  Twitter,
+  X,
   Youtube,
   Facebook,
 } from "lucide-react";
@@ -66,7 +66,7 @@ export default function Footer() {
                 aria-label="X (Twitter)"
                 className="text-gray-500 hover:text-teal-600 dark:hover:text-orange-400 transition-all duration-300 hover:scale-110"
               >
-                <Twitter className="w-5 h-5" />
+                <X className="w-5 h-5" />
               </a>
 
               <a
